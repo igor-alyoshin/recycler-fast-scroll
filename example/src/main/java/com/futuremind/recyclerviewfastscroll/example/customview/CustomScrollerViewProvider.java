@@ -2,7 +2,6 @@ package com.futuremind.recyclerviewfastscroll.example.customview;
 
 import android.graphics.drawable.ShapeDrawable;
 import android.graphics.drawable.shapes.OvalShape;
-import android.support.v4.content.ContextCompat;
 import android.view.Gravity;
 import android.view.View;
 import android.view.ViewGroup;
@@ -15,6 +14,8 @@ import com.futuremind.recyclerviewfastscroll.Utils;
 import com.futuremind.recyclerviewfastscroll.viewprovider.ViewBehavior;
 import com.futuremind.recyclerviewfastscroll.viewprovider.VisibilityAnimationManager;
 import com.futuremind.recyclerviewfastscroll.example.R;
+
+import androidx.core.content.ContextCompat;
 
 /**
  * Created by Michal on 05/08/16.

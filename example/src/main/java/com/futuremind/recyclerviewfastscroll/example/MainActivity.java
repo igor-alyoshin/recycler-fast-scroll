@@ -1,11 +1,12 @@
 package com.futuremind.recyclerviewfastscroll.example;
 
 import android.os.Bundle;
-import android.support.design.widget.TabLayout;
-import android.support.v4.view.ViewPager;
-import android.support.v7.app.AppCompatActivity;
 
 import com.futuremind.recyclerviewfastscroll.example.adapters.ExampleFragmentsAdapter;
+import com.google.android.material.tabs.TabLayout;
+
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.viewpager.widget.ViewPager;
 
 public class MainActivity extends AppCompatActivity {
 

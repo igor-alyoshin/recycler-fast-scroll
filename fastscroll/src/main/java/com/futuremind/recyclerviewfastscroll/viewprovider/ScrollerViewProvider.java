@@ -1,12 +1,13 @@
 package com.futuremind.recyclerviewfastscroll.viewprovider;
 
 import android.content.Context;
-import android.support.annotation.Nullable;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
 import com.futuremind.recyclerviewfastscroll.FastScroller;
+
+import androidx.annotation.Nullable;
 
 /**
  * Created by Michal on 05/08/16.

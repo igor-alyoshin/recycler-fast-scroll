@@ -2,12 +2,13 @@ package com.futuremind.recyclerviewfastscroll.example.customview;
 
 import android.animation.AnimatorInflater;
 import android.animation.AnimatorSet;
-import android.support.annotation.AnimatorRes;
-import android.support.annotation.Nullable;
 import android.view.View;
 
 import com.futuremind.recyclerviewfastscroll.viewprovider.ViewBehavior;
 import com.futuremind.recyclerviewfastscroll.viewprovider.VisibilityAnimationManager;
+
+import androidx.annotation.AnimatorRes;
+import androidx.annotation.Nullable;
 
 /**
  * Created by Michal on 11/08/16.

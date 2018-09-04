@@ -1,9 +1,6 @@
 package com.futuremind.recyclerviewfastscroll.example.adapters;
 
 import android.content.Context;
-import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentManager;
-import android.support.v4.app.FragmentStatePagerAdapter;
 
 import com.futuremind.recyclerviewfastscroll.example.R;
 import com.futuremind.recyclerviewfastscroll.example.fragments.CustomViewFragment;
@@ -12,6 +9,10 @@ import com.futuremind.recyclerviewfastscroll.example.fragments.HorizontalFragmen
 import com.futuremind.recyclerviewfastscroll.example.fragments.StyledFragment;
 
 import java.util.HashMap;
+
+import androidx.fragment.app.Fragment;
+import androidx.fragment.app.FragmentManager;
+import androidx.fragment.app.FragmentStatePagerAdapter;
 
 /**
  * Created by Michal on 04/08/16.

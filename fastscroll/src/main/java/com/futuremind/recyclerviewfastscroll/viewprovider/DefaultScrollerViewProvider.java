@@ -1,7 +1,6 @@
 package com.futuremind.recyclerviewfastscroll.viewprovider;
 
 import android.graphics.drawable.InsetDrawable;
-import android.support.v4.content.ContextCompat;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -9,6 +8,8 @@ import android.widget.TextView;
 
 import com.futuremind.recyclerviewfastscroll.R;
 import com.futuremind.recyclerviewfastscroll.Utils;
+
+import androidx.core.content.ContextCompat;
 
 /**
  * Created by Michal on 05/08/16.

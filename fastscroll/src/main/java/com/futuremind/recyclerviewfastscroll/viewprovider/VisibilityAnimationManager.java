@@ -4,10 +4,11 @@ import android.animation.Animator;
 import android.animation.AnimatorInflater;
 import android.animation.AnimatorListenerAdapter;
 import android.animation.AnimatorSet;
-import android.support.annotation.AnimatorRes;
 import android.view.View;
 
 import com.futuremind.recyclerviewfastscroll.R;
+
+import androidx.annotation.AnimatorRes;
 
 /**
  * Created by Michal on 05/08/16.
